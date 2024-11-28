@@ -1,0 +1,16 @@
+{
+  "name": "homework8",
+  "version": "1.0.0",
+  "description": "домашнее задание по модулю 8",
+  "main": "index.js",
+  "repository": "https://github.com/Daria-Podkina/homework8.git",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Подкина Дарья",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "pg": "^8.13.1"
+  }
+}
