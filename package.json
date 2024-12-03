@@ -5,8 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/Daria-Podkina/homework8.git",
   "scripts": {
-    "test": "test",
-    "start": "node server.js"
+    "server": "node server.js",
+    "parcel": "npx parcel src/index.html",
+    "start": "npm run server & npm run parcel"
   },
   "author": "Подкина Дарья",
   "license": "ISC",
